@@ -425,7 +425,7 @@ We have static resources like images and videos available to test, but you need 
 1. Stop your node server by typing ctrl-c
 2. Paste the result you got from running "lt —port 5000" into your config/default.json file as the "serverURL".
 3. Re-run "node app.js"
-Once you've finished these steps, try typing “video” or “image”!.
+Once you've finished these steps, try typing “video” or “image”.
         `
       }
     }
